@@ -101,7 +101,13 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VicenteCode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### 🟩 Contributions Calendar
+
+![GitHub Contributions](https://ghchart.rshah.org/VicenteCode)
+
+
 ### 📊 Most Used Language
+
 
 <div align="center">
 
