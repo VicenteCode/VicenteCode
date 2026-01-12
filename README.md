@@ -19,12 +19,12 @@
 
 ---
 
-- 👨‍💻 Software Engineer especializado en **desarrollo web y móvil**
-- ⚛️ Experiencia con **React.js, React Native y Expo**
-- 🔌 Integración de **APIs REST tipadas con OpenAPI**
-- 📱 Desarrollo móvil con **BLE**
-- 🎨 Enfoque en **UX/UI, arquitectura modular y buenas prácticas**
-- 🌱 Aprendiendo continuamente sobre **backend, arquitectura de software y AI**
+- 👨‍💻 Software Engineer specialized in **web and mobile development**
+- ⚛️ Experienced with **React.js, React Native, and Expo**
+- 🔌 Integration of **REST APIs typed with OpenAPI**
+- 📱 Mobile development with **BLE**
+- 🎨 Focused on **UX/UI, modular architecture, and best practices**
+- 🌱 Continuously learning about **backend, software architecture, and AI**
 
 ---
 
