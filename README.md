@@ -40,6 +40,7 @@
 > - Optimicé el proceso de facturación reduciendo fricción en los flujos principales
 >
 > Apliqué arquitectura limpia, principios SOLID y patrones MVC/hexagonal. Trabajé bajo metodologías ágiles con gestión por tickets, control de versiones e integración de automatización con IA.
+> - Configuración de pipelines CI/CD en Azure DevOps para automatización de pruebas y despliegue continuo.
 
 **Proyecto Personal** — Sistema de Gestión Full Stack
 > Sistema de citas para negocios (barberías). API REST con Node.js, Express 5, TypeScript y Arquitectura Hexagonal. PostgreSQL + Prisma ORM, JWT, bcrypt, Zod, ts-jest y Swagger. Frontend en Next.js con patrón contenedor-presentacional.
@@ -103,6 +104,8 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 
 ---
 
