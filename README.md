@@ -163,7 +163,7 @@
 ### 🔗 &nbsp;Contacto
 
 <div align="center">
-<a href="mailto:vicentebravo.777@gmail.com">
+<a href="mailto:vicenbravo.777@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vicente-bravo-383920394/">
